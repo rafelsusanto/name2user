@@ -38,6 +38,20 @@ python3 name2user.py -u users.txt [-d DOMAIN] [-o OUTPUT_FILE]
 
 <br>
 
+🔧 Examples
+```
+#1
+python3 name2user.py -u user.txt -d demo.test
+
+#2
+python3 name2user.py -u user.txt -d demo.test -o email-list.txt
+
+#3
+
+#4
+
+```
+
 # How to use
 Create user list file
 
