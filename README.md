@@ -53,6 +53,15 @@ python3 name2user.py -u user.txt
 python3 name2user.py -u user.txt -o user-list.txt
 ```
 
+<br>
+
+## 📝 Input File Format
+The input file (user.txt) should contain one name per line. Names can be single, double, or triple word:
+
+![image](https://github.com/user-attachments/assets/f49a021e-2f20-4efe-b605-a8eac5c623de)
+
+<br>
+
 # How to use
 Create user list file
 
