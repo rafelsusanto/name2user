@@ -1,6 +1,14 @@
 # name2user
 Generate common corporate email and username combinations from full names.
 
+## 🔧 Features
+
+- Supports 1-word, 2-word, and 3-word names
+- Generates common patterns with `.`, `_`, and `-`
+- Automatically deduplicates results
+- Domain (`-d`) is optional
+- Output file (`-o`) is optional
+
 # Installation
 git clone https://github.com/rafelsusanto/name2user
 
