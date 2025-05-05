@@ -38,7 +38,7 @@ python3 name2user.py -u users.txt [-d DOMAIN] [-o OUTPUT_FILE]
 
 <br>
 
-##🔧 Examples
+## 🔧 Examples
 ```
 #1
 python3 name2user.py -u user.txt -d demo.test
