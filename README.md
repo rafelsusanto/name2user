@@ -27,12 +27,14 @@ Create user list file
 ![image](https://github.com/user-attachments/assets/5af99606-ed6c-43b8-a31d-36b8ae4467ed)
 
 Generating email
+
 python3 name2user.py -d demo.test -u user.txt
 
 ![image](https://github.com/user-attachments/assets/e1877f30-836e-44d2-ae65-b78a138913c7)
 
 
 Generating email and output to a file
+
 python3 name2user.py -d demo.test -u user.txt -o email-list.txt
 
 ![image](https://github.com/user-attachments/assets/1a077799-9928-483a-bcef-c0523aa91dde)
@@ -41,12 +43,14 @@ python3 name2user.py -d demo.test -u user.txt -o email-list.txt
 
 
 Generating usernames
+
 python3 name2user.py -u user.txt
 
 ![image](https://github.com/user-attachments/assets/57b2f574-4650-4904-9f61-a11bcd8157a8)
 
 
 Generating usernames and output to a file
+
 python3 name2user.py -u user.txt -o user-list.txt
 
 ![image](https://github.com/user-attachments/assets/dd43400c-8073-404e-b725-8de933290357)
