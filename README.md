@@ -1,7 +1,7 @@
 # name2user
 Generate common corporate email and username combinations from full names.
 
-
+<br>
 
 ## 🔧 Installation
 
@@ -18,6 +18,7 @@ cd name2user
 python3 --version
 ```
 
+<br>
 
 ## 🚀 Features
 
