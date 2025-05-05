@@ -62,41 +62,15 @@ The input file (user.txt) should contain one name per line. Names can be single,
 
 <br>
 
-# How to use
-Create user list file
+## 📦 Output Examples
+```
+##Example: Generate Email List from Names with One, Two, or Three Words
+python3 name2user.py -u user.txt -d demo.test
+```
 
-![image](https://github.com/user-attachments/assets/5af99606-ed6c-43b8-a31d-36b8ae4467ed)
-
-Generating email
-
-```python3 name2user.py -d demo.test -u user.txt```
-
-![image](https://github.com/user-attachments/assets/e1877f30-836e-44d2-ae65-b78a138913c7)
+![image](https://github.com/user-attachments/assets/bd38af8d-f48d-439b-98e5-4133dadfa878)
 
 
-Generating email and output to a file
-
-```python3 name2user.py -d demo.test -u user.txt -o email-list.txt```
-
-![image](https://github.com/user-attachments/assets/1a077799-9928-483a-bcef-c0523aa91dde)
-
-![image](https://github.com/user-attachments/assets/9a313c99-d6c4-4b7a-878d-03c5ac2e4676)
-
-
-Generating usernames
-
-```python3 name2user.py -u user.txt```
-
-![image](https://github.com/user-attachments/assets/57b2f574-4650-4904-9f61-a11bcd8157a8)
-
-
-Generating usernames and output to a file
-
-```python3 name2user.py -u user.txt -o user-list.txt```
-
-![image](https://github.com/user-attachments/assets/dd43400c-8073-404e-b725-8de933290357)
-
-![image](https://github.com/user-attachments/assets/639f5aad-ad94-45fc-b06d-886c380bc736)
 
 
 
