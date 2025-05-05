@@ -28,11 +28,15 @@ python3 --version
 - Optional domain (`-d`) to append to usernames.
 - Optional output file (`-o`) to save the generated list.
 
+<br>
 
+## 📄 Usage
 
-# Arguments
+```bash
+python3 name2user.py -u users.txt [-d DOMAIN] [-o OUTPUT_FILE]
+```
 
-![image](https://github.com/user-attachments/assets/7d114134-68ee-4150-84a3-d560e9e0b677)
+<br>
 
 # How to use
 Create user list file
