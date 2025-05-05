@@ -14,6 +14,10 @@ cd name2user
 
 ![image](https://github.com/user-attachments/assets/b67dc8d1-f1f8-402f-8a8e-6706d4a40216)
 
+Ensure you have Python 3 installed. You can check your Python version with:
+```bash
+python3 --version
+```
 
 
 ## Features
