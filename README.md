@@ -36,6 +36,7 @@ Generating email and output to a file
 python3 name2user.py -d demo.test -u user.txt -o email-list.txt
 
 ![image](https://github.com/user-attachments/assets/1a077799-9928-483a-bcef-c0523aa91dde)
+
 ![image](https://github.com/user-attachments/assets/9a313c99-d6c4-4b7a-878d-03c5ac2e4676)
 
 
@@ -49,6 +50,7 @@ Generating usernames and output to a file
 python3 name2user.py -u user.txt -o user-list.txt
 
 ![image](https://github.com/user-attachments/assets/dd43400c-8073-404e-b725-8de933290357)
+
 ![image](https://github.com/user-attachments/assets/639f5aad-ad94-45fc-b06d-886c380bc736)
 
 
