@@ -19,13 +19,15 @@ python3 --version
 ```
 
 
-## Features
+## 🚀 Features
 
-- Supports 1-word, 2-word, and 3-word names
-- Generates common patterns with `.`, `_`, and `-`
-- Automatically deduplicates results
-- Domain (`-d`) is optional
-- Output file (`-o`) is optional
+- Supports names with 1, 2, or 3 components (e.g., first name, first and last name, or full name including middle).
+- Generates common patterns using separators like `.`, `_`, and `-`.
+- Automatically deduplicates results to avoid repetitions.
+- Optional domain (`-d`) to append to usernames.
+- Optional output file (`-o`) to save the generated list.
+
+
 
 # Arguments
 
