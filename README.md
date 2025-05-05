@@ -63,10 +63,11 @@ The input file (user.txt) should contain one name per line. Names can be single,
 <br>
 
 ## 📦 Output Examples
+Example: Generate Email List from Names with One, Two, or Three Words
 ```
-##Example: Generate Email List from Names with One, Two, or Three Words
 python3 name2user.py -u user.txt -d demo.test
 ```
+Below is an example demonstrating the difference in generated email patterns for names with one word, two words, and three words.
 
 ![image](https://github.com/user-attachments/assets/bd38af8d-f48d-439b-98e5-4133dadfa878)
 
