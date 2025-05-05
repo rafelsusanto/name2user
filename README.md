@@ -2,8 +2,7 @@
 Generate common corporate email and username combinations from full names.
 
 
-# Installation
-git clone https://github.com/rafelsusanto/name2user
+
 ## 🔧 Installation
 
 Clone the repository using the following command:
